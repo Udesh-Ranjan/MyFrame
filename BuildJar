@@ -1,0 +1,1 @@
+jar -cvmf manifest MyFrame.jar MyFrame.class MyFrame.jar MyFrame.java circle animator
